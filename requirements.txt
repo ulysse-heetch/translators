@@ -1,6 +1,5 @@
 requests==2.22.0
-PyExecJS
-lxml
-loguru
-pathos
-
+PyExecJS==1.5.1
+lxml==4.6.3
+loguru==0.5.3
+pathos==0.2.8
